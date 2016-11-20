@@ -7,3 +7,9 @@ After realizing Last.fm got rid of their old charts to show recent music playing
 # Last.fm API
 
 Last.fm api can be found at `http://www.last.fm/api`.
+
+# To-Do
+
+* Auto-generate image of chart
+* Add multiple styles
+* Display different data based on parameters
